@@ -5,6 +5,10 @@ var animal = 'dog';
 return animal;
 }
 
+function yourAnimal() {
+  var animal = 'cat';
+  return animal;
+}
 myAnimal();
 yourAnimal('cat');
 
