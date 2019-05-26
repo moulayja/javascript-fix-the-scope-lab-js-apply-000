@@ -9,7 +9,7 @@ function yourAnimal(animal) {
 }
 
 myAnimal();
-yourAnimal('cat');
+yourAnimal();
 
 function add2(n) {
   const two = 2
